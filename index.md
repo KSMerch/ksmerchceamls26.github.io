@@ -1,18 +1,18 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Kenzi Merchant                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Do or do not, there is no try."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
+  - "🎓 Junior, Electrical & Computer Engineering"
+  - "🔬 Interested in Microprocessing"
   - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎺 I play trumpet"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
