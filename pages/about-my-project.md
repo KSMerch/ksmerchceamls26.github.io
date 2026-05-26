@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models
+title: "Predictive Stability vs. Fairness Instability in Clinical ECG Classification: A Multi-Run Analysis of Deep Learning Models"
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
