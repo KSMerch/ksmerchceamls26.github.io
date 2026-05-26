@@ -10,7 +10,7 @@ quick_facts:
   - "🎓 Junior, Electrical & Computer Engineering"
   - "🔬 Interested in Microprocessing"
   - "📍 Based in Baltimore, MD"
-  - "🎺 I play trumpet"
+  - "🎺 I Play Trumpet"
 
 linkedin: https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/
 image: /assets/images/profile.svg
