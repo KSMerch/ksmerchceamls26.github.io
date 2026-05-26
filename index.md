@@ -17,10 +17,10 @@ image: assets/images/GraduationHeadshot.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
-  - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
-  - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+  - label: Leading
+    text: "As Treasurer of the Epsilon Omega Chapter of Tau Beta Sigma National Honorary Band Sorority Incorporated"
+  - label: Learning
+    text: "Approaches to edge computing and embedded systems for low-latency data processing"
+  - label: Exploring
+    text: "Signal processing and machine learning techniques for analyzing real-world sensor data"
 ---
