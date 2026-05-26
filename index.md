@@ -13,7 +13,7 @@ quick_facts:
   - "🎺 I Play Trumpet"
 
 linkedin: https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/
-image: /assets/images/profile.svg
+image: assets/images/GraduationHeadshot.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
