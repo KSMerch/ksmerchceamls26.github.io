@@ -5,9 +5,9 @@ permalink: /about-me.html
 
 about:
   name: Kenzi Merchant
-  role: Junior, Electrical & Computer Engineer
+  role: "Junior, Electrical & Computer Engineer"
   image: assets/images/GraduationHeadshot.jpg
-  linkedin: https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/
+  linkedin: "https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/"
   bio: |
     Hey there! I'm Kenzi, an Electrical & Computer Engineering student in the CEAMLS SAIRI Summer Research program.
 
