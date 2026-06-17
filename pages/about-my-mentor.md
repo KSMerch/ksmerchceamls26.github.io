@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Sudip Sharma
   title: Graduate Teaching Assistant, Master's Student, Advanced Computing 
-  image: /assets/images/graduate-student-mentor.svg
-  linkedin: https://example.com/alex-morgan
+  image: assets/images/Sudip_HS.webp
+  linkedin: https://www.linkedin.com/in/nxxis/?skipRedirect=true
   bio: |
     Sudip is a graduate student in Advanced Computing at Morgan State University and a Research Assistant working on artificial intelligence in 
     healthcare at CEAMLS. Originally from Nepal, he is passionate about using technology to solve real-world problems and make AI systems fairer 
