@@ -23,7 +23,7 @@ about:
   hobbies:
     - icon: 🎵
       title: Playing Music
-      description: I play 4 different instruments: Trumpet, Clarinet, Guitar, and Piano. I also love to sing and dance.
+      description: "I play 4 different instruments: Trumpet, Clarinet, Guitar, and Piano. I also love to sing and dance."
     - icon: 🏋️‍♀️
       title: Exercising
       description: I love to weightlift. 
