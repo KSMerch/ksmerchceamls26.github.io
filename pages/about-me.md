@@ -32,10 +32,10 @@ about:
       description: I enjoy playing multiplayer games with my friends. My favorites include Fortnite, Roblox, GTA V, and SWBF I & II.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+    - image: assets/images/MarchingBandActionShot.jpeg
+      caption: Performing at the annual Band Show in 2025
     - image: assets/images/DeadliftImage.jpg
       caption: Deadlifting at Planet Fitness.
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption: Cover of one of my favorite games.
 ---
