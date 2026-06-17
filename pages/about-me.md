@@ -4,8 +4,8 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Kenzi Merchant
+  role: Junior, Electrical & Computer Engineer
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
   bio: |
