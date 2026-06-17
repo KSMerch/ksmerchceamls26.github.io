@@ -42,7 +42,7 @@ final_report_url: NOT COMPLETE YET
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/nxxis/
+  website: https://sudipsharma013.com.np/
 
 faculty_mentor:
   name: Dr. Blessing Ojeme
