@@ -6,28 +6,30 @@ permalink: /about-me.html
 about:
   name: Kenzi Merchant
   role: Junior, Electrical & Computer Engineer
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  image: assets/images/GraduationHeadshot.jpg
+  linkedin: https://www.linkedin.com/in/example](https://www.linkedin.com/in/kenzi-merchant-a7b5a128b/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hey there! I'm Kenzi, an Electrical & Computer Engineering student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests include artificial intelligence (AI), robotics, cybersecurity, and the Internet of Things. I am 
+    particularly interested in how intelligent systems can be integrated with hardware to solve real-world problems through 
+    automation, security, and connected technologies. As an aspiring Computer Engineer and Software/Hardware Developer, 
+    I enjoy combining electronics, embedded systems, and programming to design innovative and efficient solutions. My goal 
+    is to develop technologies that bridge the gap between hardware and software while making a meaningful impact on everyday life.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me in the Morgan State Marching Band (Magnificent Marching Machine), learning languages, or volunteering 
+    with my sisters of Tau Beta Sigma.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 🎵
+      title: Playing Music
+      description: I play 4 different instruments: Trumpet, Clarinet, Guitar, and Piano. I also love to sing and dance.
+    - icon: 🏋️‍♀️
+      title: Exercising
+      description: I love to weightlift. 
+    - icon: 🎮
+      title: Gaming
+      description: I enjoy playing multiplayer games with my friends. My favorites include Fortnite, Roblox, GTA V, and SWBF I & II.
 
   gallery:
     - image: /assets/images/gallery-1.svg
