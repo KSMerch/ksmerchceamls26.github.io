@@ -36,6 +36,6 @@ about:
       caption: Performing at the annual Band Show in 2025
     - image: assets/images/DeadliftImage.jpg
       caption: Deadlifting at Planet Fitness.
-    - image: /assets/images/gallery-3.svg
+    - image: assets/images/SWBF2Cover.jpg
       caption: Cover of one of my favorite games.
 ---
