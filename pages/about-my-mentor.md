@@ -21,7 +21,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Blessing Ojeme
   title: Assistant Professor, School of Computer Science
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/BlessingOJEME_HS.jpeg
   linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/
   bio: |
     Dr. Blessing Ojeme is an Assistant Professor of Computer Science and a faculty member of the Center for Equitable Artificial Intelligence and 
