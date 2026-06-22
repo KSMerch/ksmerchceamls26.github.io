@@ -7,7 +7,7 @@ graduate_mentor:
   name: Sudip Sharma
   title: Graduate Teaching Assistant, Master's Student, Advanced Computing 
   image: assets/images/Sudip_HS.webp
-  linkedin: https://www.linkedin.com/in/nxxis/?skipRedirect=true
+  linkedin: "https://www.linkedin.com/in/nxxis/?skipRedirect=true"
   bio: |
     Sudip is a graduate student in Advanced Computing at Morgan State University and a Research Assistant working on artificial intelligence in 
     healthcare at CEAMLS. Originally from Nepal, he is passionate about using technology to solve real-world problems and make AI systems fairer 
@@ -22,7 +22,7 @@ faculty_mentor:
   name: Dr. Blessing Ojeme
   title: Assistant Professor, School of Computer Science
   image: assets/images/BlessingOJEME_HS.jpeg
-  linkedin: https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/
+  linkedin: "https://www.linkedin.com/in/blessing-ojeme-phd-259a7342/"
   bio: |
     Dr. Blessing Ojeme is an Assistant Professor of Computer Science and a faculty member of the Center for Equitable Artificial Intelligence and 
     Machine Learning Systems (CEAMLS) at Morgan State University. His research focuses on explainable artificial intelligence, data science, 
