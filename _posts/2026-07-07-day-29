@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Day 29 — 1D CNN vs. Hybrid Transformer: Accuracy and Fairness Analysis"
+date: 2026-07-07
+permalink: /day29.html
+tags: ["LLM", "Python", "Research", "Fairness Analysis"]
+
+what_i_learned: |
+  Today, I worked on comparing the performance of our two machine learning models: the 1D CNN model and the Hybrid CNN-Transformer model. I analyzed their overall 
+  performance metrics and examined how each model performed on the ECG classification task. This comparison helped me better understand the strengths and weaknesses 
+  of different model architectures and how changes in design can impact results. In addition to comparing overall performance, I conducted an intersectional fairness 
+  analysis for both models. Rather than only looking at the entire dataset, I examined how the models performed across different demographic groups. This allowed me to 
+  investigate whether certain groups experienced different levels of model performance and whether any disparities existed between populations. I also compared the 
+  number of missed cases for each demographic group. Looking at missed cases helped me better understand where the models were failing to identify conditions correctly 
+  and whether those errors were distributed evenly across groups. Through this analysis, I learned that evaluating a model involves much more than measuring overall 
+  accuracy. A model may perform well overall while still producing unequal outcomes for different groups, which is why fairness analysis is such an important part of 
+  our research.
+
+blockers: |
+  Today I ran into several programming issues while working on the model comparison and fairness audit code. I had some errors related to file paths when loading and 
+  saving models, as well as issues with variables not being defined. I also spent time debugging the fairness audit after noticing it was only returning results for 
+  one demographic group, which turned out to be caused by an incorrectly placed return statement. After fixing these errors, I was able to successfully load both 
+  models and begin comparing their performance and fairness results.
+
+reflection: |
+  Today was one of the more interesting research days because it involved analyzing and interpreting results rather than simply training models. After spending so 
+  much time building models, preparing data, and running experiments, it was rewarding to directly compare the outcomes and see how the different approaches performed. 
+  What stood out to me most was seeing how overall performance and fairness do not always tell the same story. Looking at the intersectional fairness results and the 
+  number of missed cases across groups reinforced why our project focuses on more than just accuracy. It made me realize that a model can appear successful when 
+  looking only at aggregate metrics while still affecting certain populations differently. I also enjoyed comparing the 1D CNN and Hybrid CNN-Transformer models 
+  because it helped me better understand the trade-offs involved in machine learning research. Rather than asking which model is simply "better," I found myself 
+  thinking about which model performs more consistently and fairly across different groups. Overall, I felt like today brought together many of the concepts we have 
+  been learning throughout the program, including model evaluation, fairness analysis, and responsible AI development.
+
+---
